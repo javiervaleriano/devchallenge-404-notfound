@@ -33,7 +33,7 @@
 
 ## Overview
 
-![screenshot](https://gyazo.com/76ad9c63fd5dbb74fcf986addacc3131)
+<img src="https://gyazo.com/76ad9c63fd5dbb74fcf986addacc3131" alt="Project screenshot" />
 
 - Where can I see your demo?
   [Here](https://javiervaleriano.github.io/devchallenge-404-notfound/)
